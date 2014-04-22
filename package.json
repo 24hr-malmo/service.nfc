@@ -1,0 +1,16 @@
+{
+  "name": "nfc-service",
+  "version": "0.0.0",
+  "description": "NFC reading service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camilo Tapia <camilo.tapia@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "zmq": "~2.6.0",
+    "nfc": "0.0.5",
+    "zonar": "~0.5.1"
+  }
+}
